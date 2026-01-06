@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+
+venv/
+ENV/
+env/
+.env/
+
+.idea/
+
+Thumbs.db
+.DS_Store
+
+*.log
+
+*.pyc
+.env
+.vscode/
+
+
+# Database is correct in GITHUB repo
+

@@ -1,0 +1,2 @@
+to jest punkt 8 do zadania na 5 ale nie wiem czy tak miało byc zrobione czy połaczone z punktem 4?? kod zrefaktoryzowany w miarę działo sprawdzić jeszcze raz 
+wyczyscik kod dodac pliki gitignire itd zgodnie z zadaniem
